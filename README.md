@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - to run the code
-- ```npm run dev```
+  ```npm run dev```
 
-- link to the portfolio-[a link](https://react-portfolio-mauve-eight.vercel.app/)
+- link to the portfolio-[https://react-portfolio-mauve-eight.vercel.app/](https://react-portfolio-mauve-eight.vercel.app/)
